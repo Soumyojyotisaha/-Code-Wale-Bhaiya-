@@ -32,8 +32,10 @@ That's not all, Code-Wale-Bhaiya is a smart AI chatbot, meaning you can chat wit
 To use Code-Wale-Bhaiya, follow these steps:
 
 ## 1. Obtain OpenAI API Key
+
 Obtain an API key from OpenAI by signing up on their website.
 ## 2. Create .env.local file
+
 Create a .env.local file in the root directory of the project.
 Add the following line to the file, replacing <OpenAI_API_KEY> with your actual OpenAI API key:
 ```
@@ -50,10 +52,18 @@ Run the following command to build the extension:
 npm run build
 ```
 ## 5. Load the Extension
+```
    1. Open Google Chrome and go to chrome://extensions.
    2. Enable "Developer mode" at the top right corner.
    3. In the Developer options, click on "Load unpacked."
    4. Select the build/ folder from the repository.
-
+```
 ## 6.Usage
 Once the extension is loaded, you can use it to get code suggestions and solutions for programming questions on supported platforms.
+
+7.**Contribution:**
+Feel free to contribute to the project by submitting issues or pull requests. For major changes, please open an issue to discuss the proposed changes.
+
+8.**License:**
+This project is licensed under the MIT License - see the LICENSE file for details.
+Replace the placeholders with your actual project details, and feel free to enhance the README based on your project's specific features and requirements.
