@@ -61,9 +61,9 @@ npm run build
 ## 6.Usage
 Once the extension is loaded, you can use it to get code suggestions and solutions for programming questions on supported platforms.
 
-7.**Contribution:**
+## 7.Contribution:
 Feel free to contribute to the project by submitting issues or pull requests. For major changes, please open an issue to discuss the proposed changes.
 
-8.**License:**
+## 8.License:
 This project is licensed under the MIT License - see the LICENSE file for details.
 Replace the placeholders with your actual project details, and feel free to enhance the README based on your project's specific features and requirements.
