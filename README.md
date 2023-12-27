@@ -26,7 +26,7 @@ That's not all, Code-Wale-Bhaiya is a smart AI chatbot, meaning you can chat wit
 
 1. Clone this repo
    ```bash
-   git clone <https://github.com/Soumyojyotisaha/-Code-Wale-Bhaiya-.git>
+   git clone https://github.com/Soumyojyotisaha/-Code-Wale-Bhaiya-.git
    ```
 ## Getting Started
 To use Code-Wale-Bhaiya, follow these steps:
@@ -50,10 +50,10 @@ Run the following command to build the extension:
 npm run build
 ```
 ## 5. Load the Extension
-1.Open Google Chrome and go to chrome://extensions.
-2.Enable "Developer mode" at the top right corner.
-3.In the Developer options, click on "Load unpacked."
-4.Select the build/ folder from the repository.
+   1. Open Google Chrome and go to chrome://extensions.
+   2. Enable "Developer mode" at the top right corner.
+   3. In the Developer options, click on "Load unpacked."
+   4. Select the build/ folder from the repository.
 
 ## 6.Usage
 Once the extension is loaded, you can use it to get code suggestions and solutions for programming questions on supported platforms.
